@@ -1,2 +1,3 @@
-# 💻 Tech Stack:
-Core Stack: C#
+- senior title, junior soul.
+- backend dev on .net.
+- writing c# and pretending i understand distributed systems.
